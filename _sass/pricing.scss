@@ -89,3 +89,9 @@ img.pricing {
 .m4rem {
   margin-top: 4rem;
 }
+
+ul.plan{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
